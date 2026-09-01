@@ -1,0 +1,7 @@
+{
+  "name": "Padel Score for Galaxy Watch",
+  "description": "Padel match score tracker tailored for Samsung Galaxy Watch 8 with Punto de Oro (golden point), tie-breaks, side change alerts, haptic feedback, and voice score announcements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

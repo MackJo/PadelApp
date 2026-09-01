@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="128" fill="#0A0A0A"/>
+  <circle cx="256" cy="256" r="230" stroke="#CBFB5E" stroke-width="8" fill="#121212"/>
+  <g transform="translate(110, 80)">
+    <!-- Padel Racket Head -->
+    <path d="M146 30 C70 30 20 80 20 160 C20 230 70 270 146 270 C222 270 272 230 272 160 C272 80 222 30 146 30 Z" fill="#1A1A1A" stroke="#CBFB5E" stroke-width="12"/>
+    <!-- Perforated Holes -->
+    <circle cx="146" cy="110" r="10" fill="#CBFB5E"/>
+    <circle cx="116" cy="140" r="10" fill="#CBFB5E"/>
+    <circle cx="146" cy="140" r="10" fill="#CBFB5E"/>
+    <circle cx="176" cy="140" r="10" fill="#CBFB5E"/>
+    <circle cx="96" cy="170" r="10" fill="#CBFB5E"/>
+    <circle cx="126" cy="170" r="10" fill="#CBFB5E"/>
+    <circle cx="146" cy="170" r="10" fill="#CBFB5E"/>
+    <circle cx="166" cy="170" r="10" fill="#CBFB5E"/>
+    <circle cx="196" cy="170" r="10" fill="#CBFB5E"/>
+    <circle cx="116" cy="200" r="10" fill="#CBFB5E"/>
+    <circle cx="146" cy="200" r="10" fill="#CBFB5E"/>
+    <circle cx="176" cy="200" r="10" fill="#CBFB5E"/>
+    <circle cx="146" cy="230" r="10" fill="#CBFB5E"/>
+    <!-- Neck & Handle -->
+    <path d="M130 270 L126 360 C126 370 136 380 146 380 C156 380 166 370 166 360 L162 270 Z" fill="#262626" stroke="#333333" stroke-width="6"/>
+    <!-- Grip Wrap Lines -->
+    <line x1="128" y1="295" x2="164" y2="305" stroke="#CBFB5E" stroke-width="3"/>
+    <line x1="127" y1="320" x2="165" y2="330" stroke="#CBFB5E" stroke-width="3"/>
+    <line x1="126" y1="345" x2="166" y2="355" stroke="#CBFB5E" stroke-width="3"/>
+    <!-- Yellow Ball -->
+    <circle cx="230" cy="90" r="34" fill="#CBFB5E" stroke="#A8DE3B" stroke-width="4"/>
+    <path d="M210 75 Q230 90 210 105" stroke="#A8DE3B" stroke-width="3" fill="none"/>
+    <path d="M250 75 Q230 90 250 105" stroke="#A8DE3B" stroke-width="3" fill="none"/>
+  </g>
+</svg>
